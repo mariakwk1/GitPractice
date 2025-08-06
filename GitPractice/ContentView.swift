@@ -16,6 +16,7 @@ struct ContentView: View {
             Image("cat")
             // change 3
             Text ("change 4!")
+            Text ("practice")
         }
         .padding()
     }
